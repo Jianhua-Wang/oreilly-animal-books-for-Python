@@ -4,12 +4,24 @@
 
 ## Contents
 
-- [Data analysis](#1)
-- [Advanced](#2)
+- [Guide book](#1)
+- [Data analysis](#2)
+- [Advanced programming ](#3)
+- [Web development](#3)
+- [Programming](#3)
+- [Programming](#3)
 
 
 
-## <a name="1"></a>Data analysis
+## <a name="1"></a>Guide book
+
+| English                                                      |                                                              | Chinese                                                      |                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Learning Python (5th Edition)](https://github.com/MrAlex6204/Books/blob/master/Learning%20Python%2C%205th%20Edition.pdf) | <img src="https://covers.oreillystatic.com/images/0636920028154/lrg.jpg" width = "120" height = "160" alt="pic" align=center /> | [Python学习手册 (第4版)](https://github.com/yuanliangding/books/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80-Python/Python%E5%AD%A6%E4%B9%A0%E6%89%8B%E5%86%8C(%E7%AC%AC4%E7%89%88).pdf) | <img src="https://www.d4j.cn/wp-content/uploads/2019/09/s4683230.jpg" width = "120" height = "160" alt="pic" align=center /> |
+
+
+
+## <a name="2"></a>Data analysis
 
 | English                                                      |                                                              | Chinese                                                      |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -17,7 +29,7 @@
 |                                                              |                                                              |                                                              |                                                              |
 |                                                              |                                                              |                                                              |                                                              |
 
-## <a name="2"></a>Advanced
+## <a name="3"></a>Advanced programming 
 
 | English                                                      |                                                              | Chinese                                                      |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
