@@ -46,7 +46,7 @@
 
 | English                                                      |                                                              | Chinese |      |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------- | ---- |
-| [Data Visualization with Python and JavaScript (1st Edition)](http://ebooks.blt4spd.com/ebooks/titles/2676/file/Data%20Visualization%20with%20Python%20-%20Kyran%20Dale.pdf) | <img src="https://kbimages1-a.akamaihd.net/62f421cc-dabb-4d4c-b0e7-5486192b3adb/353/569/90/False/data-visualization-with-python-and-javascript.jpg" width = "120" height = "160" alt="pic" align=center /> |         |      |
+| [Data Visualization with Python and JavaScript (1st Edition)](https://dev.seperians.es/libros/Data%20Visualization%20with%20Python%20%26%20Js.pdf) | <img src="https://kbimages1-a.akamaihd.net/62f421cc-dabb-4d4c-b0e7-5486192b3adb/353/569/90/False/data-visualization-with-python-and-javascript.jpg" width = "120" height = "160" alt="pic" align=center /> |         |      |
 | [Interactive Data Visualization for the Web (1st Edition)](https://doc.lagout.org/programmation/JavaScript/Interactive%20Data%20Visualization%20for%20the%20Web_%20An%20Introduction%20to%20Designing%20with%20D3%20%5BMurray%202013-04-05%5D.pdf) | <img src="https://leotechpress.com/wp-content/uploads/2019/03/9789352136087.jpg" width = "120" height = "160" alt="pic" align=center /> |         |      |
 | [Designing Data Visualizations (1st Edition)](http://courses.ischool.utexas.edu/unmil/files/Designing_Data_Visualizations.pdf) | <img src="https://covers.oreillystatic.com/images/0636920022060/cat.gif" width = "120" height = "160" alt="pic" align=center /> |         |      |
 
