@@ -3,8 +3,7 @@
 
 
 ## Contents
-<details>
-  <summary>Table of content</summary>
+
 - [Guide book](#1)
 - [Data analysis](#2)
 - [Advanced programming ](#3)
@@ -14,7 +13,7 @@
 - [Engineering](#7)
 - [Machine learning](#8)
 - [Bioinformatics](#9)
-</details>
+
 ## <a name="1"></a>Guide book
 
 | English                                                      |                                                              | Chinese                                                      |                                                              |
