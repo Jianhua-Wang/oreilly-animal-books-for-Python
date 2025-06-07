@@ -94,10 +94,3 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------- | ---- |
 | [Bioinformatics Programming Using Python (1st Edition)](http://index-of.es/Python/Bioinformatics.Programming.Using.Python.Mitchell.L.Model.2009.pdf) | <img src="https://covers.oreillystatic.com/images/9780596154516/lrg.jpg" width = "120" height = "160" alt="pic" align=center /> |         |      |
 | [Bioinformatics Data Skills (1st Edition)](http://2.droppdf.com/files/5aTvl/bioinformatics-data-skills.pdf) | <img src="https://image.ebooks.com/previews/002/002081/002081176/002081176.jpg" width = "120" height = "160" alt="pic" align=center /> |         |      |
-
-
-## 🏢 Sponsorship
-
-Thanks to the following sponsors for supporting the development of XUGOU:
-
-[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
